@@ -3,3 +3,5 @@
 FROM ghcr.io/baipiaofree/yzg:latest
 
 ENV DOMAIN=yangzhigao-main.hf.space
+
+‘yangzhigao-main.hf.space’HuggingFace项目的域名
